@@ -18,3 +18,4 @@ This lang is intended to mock any dogmatic system, secular and religious alike. 
 - The only `Bool` is `true`. In a dogmatic mindset, there's no such thing as "false". You must blindly believe everything the cult says.
 - String literals can be written using any combination of `"` and `'`. `''` is considered "the same" as `"`
 - Monkey Patching, reflection/introspection, and operator overloading, are all forbidden. You're not the authority here, you're an **intellectual slave**
+- `gaslight` operator allows you to cast values to absolutely any type (including custom objects). But it's very unreliable, as some objects aren't gullible enough
